@@ -11,9 +11,24 @@
 TBD
 
 
+## Prepare
+
+TBD
+
+
+## Install
+
+TBD
+
+
+## Development
+
+TBD
+
+
 ## Security
 
-If you find a security issue please contact thomas@webhippie.de first.
+If you find a security issue please contact gopad@webhippie.de first.
 
 
 ## Contributing
