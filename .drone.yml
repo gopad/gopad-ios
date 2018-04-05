@@ -3,7 +3,8 @@ workspace:
   path: src/github.com/gopad/gopad-ios
 
 pipeline:
-  # TODO: add general logic
+
+
 
   notify-matrix:
     image: plugins/matrix:1
