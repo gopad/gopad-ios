@@ -1,7 +1,7 @@
 ---
 repository:
   name: gopad-ios
-  description: "Gopad: iOS"
+  description: "Gopad: iOS client"
   homepage: https://gopad.eu
   topics: gopad, etherpad, client, ios
 
