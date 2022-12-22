@@ -18,7 +18,8 @@ TBD
 
 ## Security
 
-If you find a security issue please contact gopad@webhippie.de first.
+If you find a security issue please contact
+[gopad@webhippie.de](mailto:gopad@webhippie.de) first.
 
 ## Contributing
 
@@ -26,7 +27,7 @@ Fork -> Patch -> Push -> Pull Request
 
 ## Authors
 
-*   [Thomas Boerger](https://github.com/tboerger)
+-   [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
